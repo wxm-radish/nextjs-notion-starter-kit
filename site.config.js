@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Yang1k',
-  domain: 'yang1k.notion.site/Yang1k-f9076d486c9141d2810400b957367e89',
+  domain: 'yang1k.vercel.app',
   author: 'Yang1k',
 
   // open graph metadata (optional)
