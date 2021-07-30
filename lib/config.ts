@@ -106,7 +106,7 @@ export const apiBaseUrl = `${host}/api`
 
 export const api = {
   createPreviewImage: `${apiBaseUrl}/create-preview-image`,
-  searchNotion: `https://yang1k.notion.site/api/v3/search`
+  searchNotion: `https://yang1k.vercel.app/api/search-notion`
   // searchNotion: `${apiBaseUrl}/search-notion`
 }
 
