@@ -1,25 +1,25 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'f9076d486c9141d2810400b957367e89',
+  rootNotionPageId: 'b9424cd9a7a642d8a19fe1447fcf5364',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Yang1k',
-  domain: 'yang1k.vercel.app',
-  author: 'Yang1k',
+  name: '萝卜',
+  domain: 'radishes-nine.vercel.app',
+  author: 'Radish',
 
   // open graph metadata (optional)
-  description: '123……',
+  description: '努力想做一个全栈大佬',
   socialImageTitle: 'Transitive Bullshit',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  //twitter: 'transitive_bs',
-  //github: 'transitive-bullshit',
-  //linkedin: 'fisch2',
+//   twitter: '',
+//   github: 'wxm-radish',
+//   linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
@@ -32,7 +32,7 @@ module.exports = {
   imageCDNHost: null,
 
   // Utteranc.es comments via GitHub issue comments (optional)
-  utterancesGitHubRepo: 'https://github.com/Yang1k/Yang1k.github.io/issues',
+  utterancesGitHubRepo: null,
 
   // whether or not to enable support for LQIP preview images (optional)
   // NOTE: this requires you to set up Google Firebase and add the environment
